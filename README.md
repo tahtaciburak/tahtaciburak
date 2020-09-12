@@ -34,8 +34,8 @@ Here are some ideas to get you started:
   <br><br>
 </p>
 
-
-  <a href="https://gitlab.com/tahtaciburak">
+<div align="center">
+    <a href="https://gitlab.com/tahtaciburak">
     <img align="middle" alt="Burak Tahtacı GitLab" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gitlab.svg" hspace="30" />
   </a>
 
@@ -49,3 +49,5 @@ Here are some ideas to get you started:
   <a href="https://buraktahtaci.com">
   <img align="middle" alt="Burak Tahtacı blog" width="48px" src="https://image.flaticon.com/icons/svg/1085/1085808.svg" hspace="30" />
   </a>
+
+</div>

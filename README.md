@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    I also interested in <i>natural language processing</i>, <i>image processing applications in robotics</i>, and <i>intelligent systems</i>.
+    I also interested in <i>natural language processing</i>, <i>image processing applications in robotics</i>, and <i>big data processing</i>.
   </samp>
   <br><br>
 </p>

@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    My research field is <b>machine learning</b> and <b>data-driven decision making</b> applications in Cyber Security.
+    My interests are <b>machine learning</b> and <b>big data processing</b> applications in Cyber Security.
   </samp>
   <br><br>
 </p>
 
 <p align="center">
   <samp>
-    I also interested in <i>natural language processing</i>, <i>image processing applications in robotics</i>, and <i>big data processing</i>.
+    I also interested in <i>natural language processing</i>, <i>image processing applications in robotics</i>, and <i>drones</i>.
   </samp>
   <br><br>
 </p>

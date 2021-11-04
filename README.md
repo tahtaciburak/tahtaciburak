@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    I do security research and develop tools and products
+    I do research, develop tools and products about security
   </samp>
   <br><br>
 </p>

@@ -15,21 +15,14 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    Hi, I'm Burak, R&D Engineer at <a href="https://trendyol.com/">Trendyol</a>.
+    Hi, I'm Burak, Security R&D Engineer at <a href="https://trendyol.com/">Trendyol</a>.
   </samp>
   <br><br>
 </p>
 
 <p align="center">
   <samp>
-    My interests are <b>machine learning</b> and <b>big data processing</b> applications in Cyber Security.
-  </samp>
-  <br><br>
-</p>
-
-<p align="center">
-  <samp>
-    I also interested in <i>natural language processing</i>, <i>image processing applications in robotics</i>, and <i>drones</i>.
+    I do security research and develop tools and products
   </samp>
   <br><br>
 </p>

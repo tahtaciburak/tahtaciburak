@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <samp>
-    Hi, I'm Burak, Security R&D Engineer at <a href="https://trendyol.com/">Trendyol</a>.
+    Hi, I'm Burak, Lead Software Engineer at <a href="https://trendyol.com/">Trendyol</a>.
   </samp>
   <br><br>
 </p>
